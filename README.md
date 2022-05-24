@@ -14,7 +14,7 @@
 * `cd WaSpam`
 * `pip2 install requests`
 * `ls`
-* `python2 WaSpam.py
+* `python2 WaSpam.py`
 
 ## Supporters
 [VISIT YOUTUBE CHANNEL❤️](https://youtube.com/channel/UCjLWEJScBReyaCgHh0bFiTw)
